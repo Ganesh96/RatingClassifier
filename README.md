@@ -1,6 +1,5 @@
 # Game Ratings Predictor  
-LinkedIn:  
-https://www.linkedin.com/in/ganesan-santhanam-776973a7/
+LinkedIn:  [https://www.linkedin.com/in/ganesansantha77/](https://www.linkedin.com/in/ganesansantha77/)
   
 Hi DevPeople!  
 This is a project originally made by Ganesan
